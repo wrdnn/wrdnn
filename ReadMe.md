@@ -4,4 +4,8 @@ This tutorial is the start of learning GIT for version control.
 
 ## About
 
-This repo is managed by **YOURNAMEHERE**
+This repo is managed by **YOURNAMEHERE**.
+
+## Copyright
+
+We will add copyright in the future.
